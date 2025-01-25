@@ -19,7 +19,7 @@ import {
 import { Switch } from './ui/switch'
 import useFetch from '@/hooks/use-fetch'
 import { createAccount } from '@/actions/dashboard'
-import { Loader, Loader2 } from 'lucide-react'
+import {  Loader2 } from 'lucide-react'
 import { toast } from 'sonner'
 
 
